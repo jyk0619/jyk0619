@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I am **Yeongkyeong Jung**
-- 🌱 I’m currently learning in the SeoulTech
+- 🌱 I’m currently learning in the SeoulTech[서울과학기술대학교 홈페이지](https://www.seoultech.ac.kr)
 
-##안녕하세요!
+## 안녕하세요!
 
 <!--
 **jyk0619/jyk0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
