@@ -2,7 +2,7 @@
 
 
 I am **Yeongkyeong Jung**
-- 🌱 I’m currently learning in the SeoulTech <u>[seoultech hompage](https://www.seoultech.ac.kr)</u>
+- 🌱 I’m currently learning in the SeoulTech [seoultech hompage](https://www.seoultech.ac.kr)
 
 
 
