@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yeongkyeong Jung
+I am **Yeongkyeong Jung**
 - 🌱 I’m currently learning in the SeoulTech
 
 <!--
