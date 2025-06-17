@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-
-I am **Yeongkyeong Jung**
-- 🌱 I’m currently learning in the SeoulTech [seoultech hompage](https://www.seoultech.ac.kr)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jyk0619&show_icons=true)
 
 
 
