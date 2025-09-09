@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 안녕하세요! 플러터 세상을 여행하는 개발자 정영경 입니다
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyk0619&show_icons=true&theme=radical)
 
