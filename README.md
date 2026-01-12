@@ -2,12 +2,6 @@
 ### 안녕하세요! 플러터 세상을 여행하는 개발자 정영경 입니다
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyk0619&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyk0619&layout=compact&hide=jupyter%20notebook)
-
 <!--
 **jyk0619/jyk0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
